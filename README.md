@@ -21,3 +21,7 @@ in the **-f pulse -filter_complex amerge -ac 2 -i 3** section change the **3** a
 pacmd list-sources
 ```
 And look for **Monitor of Built-in Audio Analog Stereo** and replace the **3** in **-f pulse -filter_complex amerge -ac 2 -i 3** with the index number
+
+## Troubleshooting
+
+If you are having framerate drops just remove -f pulse **-filter_complex amerge -ac 2 -i 3** part of the script to fix it
