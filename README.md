@@ -34,3 +34,6 @@ To use
 ```
 ./screenrecorder.sh
 ```
+
+## videos
+[screenrecorder.sh - screen recording script finalized, new features](https://www.youtube.com/watch?v=08LH4z8QC_A)
