@@ -1,11 +1,11 @@
 # screenrecorder.sh
-A script for recording your screen under linux with ffmpeg and mpv
+A script for recording your screen under linux with ffmpeg 
 
 Things you'll need to install
 
 On Debian based distros (Ubuntu, Mint, Kubuntu, Xubuntu...)
 ```
-sudo apt install ffmpeg ffplay
+sudo apt install ffmpeg
 ```
 
 Things you need to change based on your configuration
